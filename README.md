@@ -22,7 +22,7 @@ This project implements Dijkstra's Algorithm to find the shortest path for a poi
 - `matplotlib`: Employed for displaying the final path in a coordinate frame.
 
 ## Input Coordinates System
-The coordinate system used in this project considers the origin `(0, 0)` to be at the **bottom-left corner** of the arena. The X-axis extends towards the right, and the Y-axis extends upwards. The maximum valid coordinates are `(1199, 499)`.
+The coordinate system used in this project considers the origin `(0, 0)` to be at the bottom-left corner of the arena. The X-axis extends towards the right, and the Y-axis extends upwards.
 
 ## Important Notes
 - The arena size is fixed at 1200x500 pixels.
