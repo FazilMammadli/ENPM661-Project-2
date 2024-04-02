@@ -1,4 +1,3 @@
-# Finding the shortest path for a point robot within a specified arena
 # Dijkstra Algorithm Implementation for Point Robot
 
 ## Overview
